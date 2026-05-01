@@ -102,10 +102,3 @@ npm run build
 ```
 
 You can preview the production build with `npm run preview`.
-
-
-
-##  💪 Contributions
-We welcome contributions ! If you have an idea for a new feature or have found a bug,
-please open an issue in the repository. If you'd like to submit a fix or new feature,
-please create a pull request with a detailed description of your changes.
