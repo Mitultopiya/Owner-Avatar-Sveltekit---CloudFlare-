@@ -1,25 +1,3 @@
-# GraphQl :
-
-[`Live Demo :: https://cloudflare-fullstack.pages.dev/graphql`](https://cloudflare-fullstack.pages.dev/graphql).
-
-# Full API documentation
-
-[`Api doc:: https://cloudflare-fullstack.pages.dev/doc/`](https://cloudflare-fullstack.pages.dev/doc/).
-
-## postgres(supabase) + drizzle-orm
-
-[`get data from postgres::https://cloudflare-fullstack.pages.dev/api/supabase`](https://cloudflare-fullstack.pages.dev/api/supabase).
-
-## cloudflare D1 + drizzle-orm
-
-[`get data from D1 ::https://cloudflare-fullstack.pages.dev/api/d1/users`](https://cloudflare-fullstack.pages.dev/api/d1/users).
-
-## cloudflare KV
-
-[`get data from KV ::https://cloudflare-fullstack.pages.dev/api/kv`](https://cloudflare-fullstack.pages.dev/api/kv).
-
-
-
 # graphql
 
 ```js
@@ -72,7 +50,7 @@ Compatibility flags: nodejs_compat
 #example.wrangler.toml
 
 name = "cloudflare-fullstack"
-compatibility_date = "2023-08-14"
+compatibility_date = "2026-03-14"
 compatibility_flags = ["nodejs_compat"]
 
 
